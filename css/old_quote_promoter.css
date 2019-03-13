@@ -1,0 +1,6 @@
+.kc_head{background:#fff; padding:10px 10px 15px 10px; border-bottom:5px solid #11A7DB; line-height:12px}
+.kc_head h1{font-weight:bold; font-size:26px; font-family:Arial, Helevetica; text-transform:uppercase; letter-spacing:2px}
+.kc_top{margin-top:20px}
+
+.kc_head ol li{line-height:18px}
+.kc_head select, textarea, input {width:250px}
